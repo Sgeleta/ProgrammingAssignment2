@@ -34,7 +34,7 @@ cachemean <- function(x, ...) {
 
 ## Write a short comment describing this function? 
 
-#I just closely folowed the example and used hints from stackoverflow
+#I just closely followed the example and used hints from stackoverflow
 ##The function creates "matrix" object  that stores a matrix and caches its inverse.
 
 makeCacheMatrix <- function(x = matrix()) {
